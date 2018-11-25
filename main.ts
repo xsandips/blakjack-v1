@@ -5,7 +5,7 @@
 /// <reference path='src/deck.ts' />
 /// <reference path='src/blackjack.ts' />
 
-//Use these to keep state
+//Use these to keep 
 var game, playerName;
 
 
